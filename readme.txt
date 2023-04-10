@@ -12,3 +12,12 @@
 10）开发业务逻辑层，实现登录判断
 11）开发控制器AdminAction，完成登录处理
 12）改造页面，发送登录请求，验证登录
+
+开发环境：
+开发工具：idea2023
+数据库：mysql8.0.31
+服务端：spring+springMVC+MyBatis框架整合
+项目管理：Maven
+前端：jQuery+BootStrap+JavaScript
+jdk1.8
+服务器：tomcat9.0.73
